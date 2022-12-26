@@ -1,7 +1,3 @@
-# Oi! Eu sou a Nayla Prilla.
-Eu sou Ilustradora e Designer.
-Por enquanto, estou aprendendo HTML5 e CSS.
-
 <div align="center">
   <a href="https://github.com/naylaprilla">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naylaprilla&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
