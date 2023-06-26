@@ -6,7 +6,7 @@ Desde outubro de 2022 estou estudando programação, atualmente me formei no pro
  -  HTML5, CSS3 e JavaScript do Curso em Vídeo.
  -  SQL com MySQL na Alura.
 
- ### :computer: Tecnologias que eu já estudei:
+### :computer: Tecnologias que eu já estudei:
  - HTML5
  - CSS3
  - JavaScript
@@ -16,7 +16,7 @@ Desde outubro de 2022 estou estudando programação, atualmente me formei no pro
 ### :books: Estou lendo:
  - Lógica de Programação e Algoritimos com JavaScript editora Novatec autor: Edécio Fernando Iepsen
 
-##### :pencil2: Hobbies e Interesses:
+### :pencil2: Hobbies e Interesses:
  - Gosto de desenhar, tenho um perfil sobre isso no insta: @prillanart;
  - Amo ficar com a minha família;
  - Asistir séries, animes e filmes;
