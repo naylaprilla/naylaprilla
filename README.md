@@ -6,7 +6,7 @@ Desde outubro de 2022 estou estudando programação, atualmente me formei no pro
  -  HTML5, CSS3 e JavaScript do Curso em Vídeo.
  -  SQL com MySQL na Alura.
 
-##### Tecnologias que eu já estudei:
+:computer: ##### Tecnologias que eu já estudei:
  - HTML5
  - CSS3
  - JavaScript
