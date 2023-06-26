@@ -13,8 +13,10 @@ Desde outubro de 2022 estou estudando programação, atualmente me formei no pro
  - React
  - Git / Github
 
+### :books: Estou lendo:
+ - Lógica de Programação e Algoritimos com JavaScript editora Novatec autor: Edécio Fernando Iepsen
 
-##### Hobbies e Interesses:
+##### :pencil2: Hobbies e Interesses:
  - Gosto de desenhar, tenho um perfil sobre isso no insta: @prillanart;
  - Amo ficar com a minha família;
  - Asistir séries, animes e filmes;
@@ -23,5 +25,4 @@ Desde outubro de 2022 estou estudando programação, atualmente me formei no pro
  - Fazer receitas gostosas;
  - Faço crochê e amigurumis;
  - Escuto playlists de musica indie.
-
 
