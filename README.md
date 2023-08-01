@@ -1,6 +1,6 @@
 ## :earth_americas: Hello, World! :smirk:
 # Eu sou a Nayla Prilla! 
-Desde outubro de 2022 estou estudando programação, atualmente me formei no projeto One T4 BR - FontEnd, uma parceria da Alura com a Latam.
+Desde outubro de 2022 estou estudando programação, conclui uma trilha Front End no projeto One T4 BR e estou iniciando um curso tecnólogo de Sistemas Para Internet na Fatec.
 
 ### :bookmark_tabs: O que estou estudando:
  -  HTML5, CSS3 e JavaScript do Curso em Vídeo
