@@ -3,8 +3,10 @@
 Desde outubro de 2022 estou estudando programação, atualmente me formei no projeto One T4 BR - FontEnd, uma parceria da Alura com a Latam.
 
 ### :bookmark_tabs: O que estou estudando:
- -  HTML5, CSS3 e JavaScript do Curso em Vídeo.
- -  SQL com MySQL na Alura.
+ -  HTML5, CSS3 e JavaScript do Curso em Vídeo
+ -  SQL com MySQL na Alura
+ -  Convencional Commits https://www.conventionalcommits.org/pt-br/v1.0.0-beta.4/
+ -  Next 2023 Coder Cursos
 
 ### :computer: Tecnologias que eu já estudei:
  - HTML5
