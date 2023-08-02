@@ -5,7 +5,7 @@ Desde outubro de 2022 estou estudando programação, conclui uma trilha Front En
 ### :bookmark_tabs: O que estou estudando:
  -  HTML5, CSS3 e JavaScript do Curso em Vídeo
  -  SQL com MySQL na Alura
- -  Convencional Commits https://www.conventionalcommits.org/pt-br/v1.0.0-beta.4/
+ -  Convencional Commits https://www.conventionalcommits.org/pt-br/v1.0.0-beta.4/ and https://medium.com/linkapi-solutions/conventional-commits-pattern-3778d1a1e657
  -  React e Next 2023 Coder Cursos
 
 ### :computer: Tecnologias que eu já estudei:
