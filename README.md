@@ -1,18 +1,15 @@
 ## :earth_americas: Hello, World! :smirk:
 # Eu sou a Nayla Prilla! 
-Desde outubro de 2022 estou estudando programação, conclui uma trilha Front End no projeto One T4 BR e estou iniciando um curso tecnólogo de Sistemas Para Internet na Fatec.
-
-### :bookmark_tabs: O que estou estudando:
- -  HTML5, CSS3 e JavaScript do Curso em Vídeo
- -  Convencional Commits https://www.conventionalcommits.org/pt-br/v1.0.0-beta.4/ and https://medium.com/linkapi-solutions/conventional-commits-pattern-3778d1a1e657
- -  React e Next 2023 Coder Cursos
+Conclui uma trilha Front End no projeto One T4 BR e estou iniciando um curso tecnólogo de Sistemas Para Internet na Fatec.
 
 ### :computer: Tecnologias que eu já estudei:
- - HTML5
- - CSS3
+ - HTML
+ - CSS
  - JavaScript
- - React
  - Git / Github
+ - C++
+ - Linux
+ - Banco de Dados relacional com MySQL
 
 ### :ticket: Cursos/ Trilhas de Estudos:
  - JavaScript - Curso em Vídeo  - concluído em: 13/07/2023
